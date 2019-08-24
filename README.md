@@ -20,7 +20,7 @@ workflow you'll use during the academy.
     1. [Other](#other)
 
 There is also a screencast to accompany this readme. Please note that there is one known issue so far in the screencast
-in that the clone of the batch3-students needs to be done by URL (as is shown in this README) and not by filter.
+in that the clone of the stats-279 needs to be done by URL (as is shown in this README) and not by filter.
 
 [![screencast](https://img.youtube.com/vi/6cHRO-ab_L4/0.jpg)](https://www.youtube.com/watch?v=6cHRO-ab_L4)
 
@@ -80,7 +80,7 @@ available to us.
 
 1. Select "File > Clone repository" on the menubar
 ![Clone menubar](assets/clone.png "Clone form the menubar")
-1. Select by URL "hershaw/batch3-students"
+1. Select by URL "hershaw/stats-279"
 ![Select by URL](assets/select-by-url.png "Select by URL")
 1. Select and press clone
 
@@ -88,26 +88,26 @@ available to us.
 
 1. Open a Terminal or Git Bash, the next steps are on this terminal
 1. Clone the students repository 
-[batch3-students](https://github.com/LDSSA/batch3-students)
+[stats-279](https://github.com/LDSSA/stats-279)
 ```bash
-git clone https://github.com/LDSSA/batch3-students.git
+git clone https://github.com/LDSSA/stats-279.git
 ```
 Or if you have your ssh keys set up:
 
 ```bash
-git clone git@github.com:LDSSA/batch3-students.git
+git clone git@github.com:LDSSA/stats-279.git
 ```
 
 ### Running and Submitting a Learning Unit
 
-In the `batch3-students` repository that you just cloned there is a sample
+In the `stats-279` repository that you just cloned there is a sample
 learning unit.
 It's used to give instructors guidelines to produce the learning units.
 We are also using it to ensure that you are able to run and submit a learning 
 unit.
 
 So go ahead and copy the sample directory `sample/SLU00 - LU Tutorial` from the `
-batch3-students` repository to your repository (named `batch3-workspace`).
+stats-279` repository to your repository (named `batch3-workspace`).
 ![Sample learning unit](assets/sample_learning_unit.png "Sample learning unit")
 
 The grader only requires you to have the contents in a directory starting with
@@ -259,7 +259,7 @@ output head to out [troubleshooting](#_portal_)
 
 Learning units will be announced in the academy's _#annoucements_ channel.
 At this point they are available in the 
-[batch3-students](https://github.com/LDSSA/batch3-students) 
+[stats-279](https://github.com/LDSSA/stats-279) 
 repository and submissions are open in the 
 [_Portal_](https://portal.lisbondatascience.org).
 
@@ -267,7 +267,7 @@ The steps you followed during the initial setup are exactly what you are going
 to be doing for each new learning unit.
 Here's a quick recap:
 1. Once a new learning unit is available pull the changes from the 
-[batch3-students](https://github.com/LDSSA/batch3-students) repo.
+[stats-279](https://github.com/LDSSA/stats-279) repo.
 1. Copy the unit to your `batch3-workspace` repo
 1. Work
 1. Once all tests pass or once you're happy, commit the changes and push
