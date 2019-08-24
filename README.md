@@ -9,34 +9,17 @@ workflow you'll use during the academy.
 1. [Initial Setup](#initial-setup)
     1. [Setup _Git_/_GitHub_](#setup-_git__github_)
     1. [Install _Anaconda_](#install-_anaconda_)
-    1. [Setup your Workspace Repository](#setup-your-workspace-repository)
-    1. [Get the Learning Material](#get-the-learning-material)
-    1. [Running and Submitting a Learning Unit](#running-and-submitting-a-learning-unit)
-1. [Learning Unit Workflow](#learning-unit-workflow)
-1. [Updates to Learning Units](#updates-to-learning-units)
-1. [Help](#help)
-    1. [Learning Unit](#learning-unit-workflow)
-    1. [_Portal_](#_portal_)
-    1. [Other](#other)
+    1. [Setup your Repository](#setup-your-workspace-repository)
 
 ## Initial Setup
 
-**IMPORTANT**
-Before the bootcamp you will have to complete these instructions, this is 
-essential.
-
-Once you complete the setup mark yourself as such on [this spreadsheet](https://docs.google.com/spreadsheets/d/1bEOwvEmEJONYzW94efixHa8Te8I_QKC91m8WPoADxjY/edit?usp=sharing).
-
-By completing this you will setup and learn about all the tools you'll be
-using during the academy.
-We will also be able to identify any problems in time to figure out a solution.
+This is one-time setup that you'll only have to do once.
 
 ### Setup _Git_/_GitHub_
 
 1. Install [_GitHub Desktop_](https://desktop.github.com/).
 1. [Sign up](https://github.com/join) for a _GitHub_ account if you don't 
 already have one.
-
 
 ### Install _Anaconda_
 
